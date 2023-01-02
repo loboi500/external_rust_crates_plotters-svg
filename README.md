@@ -1,8 +1,3 @@
-# plotters-svg - The SVG backend for Plotters
-
-This is a part of plotters project. For more details, please check the following links:
-
-- For high-level intro of Plotters, see: [Plotters on crates.io](https://crates.io/crates/plotters)
-- Check the main repo at [Plotters repo](https://github.com/38/plotters.git)
-- For detailed documentation about this crate, check [plotters-backend on docs.rs](https://docs.rs/plotters-backend/)
-- You can also visit Plotters [Homepage](https://plotters-rs.github.io)
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0728730cd12ff1e463d8ac54ba62bf88a8e55f769523321441f34a12614dc5b
+size 503
